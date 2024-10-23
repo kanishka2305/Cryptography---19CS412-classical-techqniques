@@ -325,7 +325,7 @@ The program is executed successfully
 
 ---------------------------
 
-# Hill Cipher
+# Exp .3 : Hill Cipher
 Hill Cipher using with different key values
 
 # AIM:
@@ -451,7 +451,8 @@ int main() {
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/9675c7f8-39bb-433d-98a0-b45d42809d30)
+![image](https://github.com/user-attachments/assets/01c40ad6-2644-4215-bf3c-1543d05da0e6)
+
 
 
 ## RESULT:
@@ -459,7 +460,7 @@ The program is executed successfully
 
 -------------------------------------------------
 
-# Vigenere Cipher
+# Exp.4 : Vigenere Cipher
 Vigenere Cipher using with different key values
 
 # AIM:
@@ -564,14 +565,15 @@ void decipher() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/d33c29e8-8f02-48b2-8e5e-21b2836f19c7)
+![image](https://github.com/user-attachments/assets/1e12c143-406c-4c08-b309-46457f08d471)
+
 
 ## RESULT:
 The program is executed successfully
 
 -----------------------------------------------------------------------
 
-# Rail Fence Cipher
+# Exp.5 : Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
 # AIM:
@@ -654,7 +656,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/d6da3754-b153-4e13-bff6-e310c7728417)
+![image](https://github.com/user-attachments/assets/89cfe4a1-5d41-4e72-883f-25fd45415d12)
+
 
 
 ## RESULT:
