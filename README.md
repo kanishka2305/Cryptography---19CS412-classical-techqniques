@@ -1,5 +1,5 @@
 
-# Caeser Cipher
+# EXP.1: Caeser Cipher
 Caeser Cipher using with different key values
 
 # AIM:
@@ -100,7 +100,8 @@ int main() {
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/17fedbc1-09e9-4a55-94a3-0b84cfbc78cc)
+![image](https://github.com/user-attachments/assets/23240596-d456-4c3b-bf82-1eaa624c461b)
+
 
 
 ## RESULT:
