@@ -1,5 +1,5 @@
 
-# EXP.1: Caeser Cipher
+# Exp.1 : Caeser Cipher
 Caeser Cipher using with different key values
 
 # AIM:
@@ -109,7 +109,7 @@ The program is executed successfully
 
 ---------------------------------
 
-# PlayFair Cipher
+# Exp.2 : PlayFair Cipher
 Playfair Cipher using with different key values
 
 # AIM:
@@ -315,7 +315,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/1eaae909-a859-4d23-8934-69345ec8c353)
+![image](https://github.com/user-attachments/assets/62568cad-b378-4b7e-bf1c-0db2242d79f7)
+
 
 
 ## RESULT:
